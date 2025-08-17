@@ -15,16 +15,10 @@
 
 ---
 
-## 📊 GitHub Stats
-![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emekuabel&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emekuabel&layout=compact&theme=radical)
-
----
 
 ## 📬 Let's Connect
 
-- Portfolio: (https://abel-portfolio-abel.netlify.app)
+- Portfolio: https://abel-portfolio-abel.netlify.app
 - LinkedIn: [linkedin.com/in/emeku-abel](#)
 - Email: emekuabel@gmail.com
 - Twitter: [@abconnect__](#)
