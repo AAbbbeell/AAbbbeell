@@ -24,10 +24,10 @@
 
 ## 📬 Let's Connect
 
-- Portfolio: [emeku-abel.com](https://emeku-abel.com)
-- LinkedIn: [linkedin.com/in/yourprofile](#)
+- Portfolio: (https://abel-portfolio-abel.netlify.app)
+- LinkedIn: [linkedin.com/in/emeku-abel](#)
 - Email: emekuabel@gmail.com
-- Twitter: [@yourhandle](#)
+- Twitter: [@abconnect__](#)
 
 ---
 
