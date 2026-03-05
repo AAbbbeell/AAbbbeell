@@ -2,9 +2,9 @@
 
 **AAbbbeell/AAbbbeell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 👋 Hi, I'm Abel Emeku
+# 👋 Hi, I'm Soyama Abel
 
-🎨 Graphics & Product Designer | 💻 Web Developer | 🚀 Tech Enthusiast
+🎨 Graphics & Product Designer | 💻 Sfotware Developer | 🚀 Tech Enthusiast
 
 ---
 
