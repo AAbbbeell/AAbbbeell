@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Soyama Abel
 
-🎨 Graphics & Product Designer | 💻 Sfotware Developer | 🚀 Tech Enthusiast
+🎨 Graphics & Product Designer | 💻 Software Developer | 🚀 Tech Enthusiast
 
 ---
 
