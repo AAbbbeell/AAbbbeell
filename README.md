@@ -24,7 +24,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/emeku-abel/)
 
-[![Twitter/X](https://img.shields.io/badge/X-Follow-black?logo=x)](https://x.com/abconnect__)
+[![Twitter](https://img.shields.io/badge/X-Follow-black?logo=x)](https://x.com/abconnect__)
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/emeku_abel)
 
