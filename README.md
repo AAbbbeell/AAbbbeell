@@ -24,10 +24,6 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AAbbbeell&theme=github-dark)](https://github.com/AAbbbeell)
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/AAbbbeell/AAbbbeell/blob/output/github-contribution-grid-snake-dark.svg)
-
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=AAbbbeell&label=Profile+Views)
