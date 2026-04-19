@@ -20,6 +20,18 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AAbbbeell&theme=github-dark)](https://github.com/AAbbbeell)
 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
+
+[![Twitter/X](https://img.shields.io/badge/X-Follow-black?logo=x)](https://x.com/YOUR_USERNAME)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://YOUR_WEBSITE.com)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your@email.com)
+
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=AAbbbeell&label=Profile+Views)
