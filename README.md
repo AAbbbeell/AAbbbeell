@@ -8,10 +8,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Graphics+Designer;Frontend+Developer;Product+Designer;Open+Source+Enthusiast&theme=dark)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AAbbbeell&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AAbbbeell&theme=github-dark)
