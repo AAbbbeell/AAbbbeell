@@ -2,13 +2,13 @@
 > *“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs*
 
 
-# Hi there 👋 I'm Abel
+# Hi there  I'm Soyama Abel
 
-## 🚀 Developer Profile
+## Developer Profile
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Graphics+Designer;Frontend+Developer;Product+Designer;Open+Source+Enthusiast&theme=dark)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AAbbbeell&theme=github-dark)
 
