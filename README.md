@@ -22,15 +22,15 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/emeku-abel/)
 
-[![Twitter/X](https://img.shields.io/badge/X-Follow-black?logo=x)](https://x.com/YOUR_USERNAME)
+[![Twitter/X](https://img.shields.io/badge/X-Follow-black?logo=x)](https://x.com/abconnect__)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/emeku_abel)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://YOUR_WEBSITE.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://abconnecttech.com)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:emekuabel@email.com)
 
 ## 👀 Profile Views
 
